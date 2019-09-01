@@ -2,6 +2,17 @@
 
 #### Quiz you with educational questions about Math and the Alphabet
 
+## Setup
+
+You must install nodes version 10 before using this action:
+
+```
+# Using Ubuntu (or raspberry)
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+```
+
 ## Run
 
 - Dev mode:
